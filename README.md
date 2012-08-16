@@ -1,4 +1,4 @@
 Dummy.rb
 ========
 
-A Ruby port of https://github.com/goncalossilva/dummy
+A Ruby port of https://github.com/kerns/dummy
